@@ -1,4 +1,4 @@
-## Rotate Matrix (90° Clockwise) (LeetCode)
+## Rotate Matrix (90° Clockwise) (Striver)
 
 **Pattern:** Matrix + Transpose + Reverse
 
